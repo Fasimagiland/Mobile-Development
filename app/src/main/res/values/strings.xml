@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FasimagiLand</string>
+    <string name="imageSs_desc">Layar Pembuka FasimagiLand</string>
+    <string name="btn_getting_started">Mulai</string>
+    <string name="title_menu_1">Kreativitas Kanvas Tanpa Batas</string>
+    <string name="desc_menu_1">Bawa Cerita melalui \n Coretan di Kanvas</string>
+    <string name="title_menu_2">Pilih Cerita</string>
+    <string name="desc_menu_2">Pilih dari berbagai cerita \n untuk memulai petualangan menggambarmu</string>
+    <string name="title_menu_3">Baca Kata yang Berwarna Merah</string>
+    <string name="desc_menu_3">Nikmati cerita dan \n Fokus pada kata yang disorot \n dalam segmen cerita</string>
+    <string name="title_menu_4">Gambar di Kanvas</string>
+    <string name="desc_menu_4">Gambarlah kata yang disorot \n di kanvas yang disediakan \n dan ulangi langkahnya</string>
+    <string name="image_welcome">gambar selamat datang</string>
+
+    <string name="icon_globe_desc">Ikon Bola Dunia</string>
+    <string name="icon_info_desc">Ikon Info</string>
+    <string name="icon_more_desc">Ikon Lainnya</string>
+    <string name="image_desc">Gambar Utama</string>
+    <string name="text_main1">Ikuti setiap bagian cerita dan\nilustrasikan setiap kata yang disorot</string>
+    <string name="text_main2">Biarkan aplikasi menganalisis hasil gambar Anda</string>
+    <string name="text_btn_main">Ayo Gambar Cerita</string>
+    <string name="story_title">Judul Cerita</string>
+    <string name="difficulty_easy">Kesulitan: Mudah</string>
+    <string name="back">Kembali</string>
+    <string name="choose_the_story">Pilih Cerita</string>
+    <string name="title">Lorem ipsum dolor sit amet\nconsectetur. Tincidunt\nauctor id non sit ut id\nStrawberry .....</string>
+    <string name="gotit">Mengerti!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_analyze_true">HEBAT!</string>
+    <string name="text_analyze_true">Gambar Anda sesuai dengan cerita</string>
+    <string name="image_analyze">Gambar Analisis</string>
+    <string name="btn_analyze">Periksa</string>
+    <string name="draw_the_highlight_word">Gambar kata yang disorot</string>
+    <string name="btn_analyze_fragment">Lanjutkan</string>
+
+    <string name="message_false">UPS!</string>
+    <string name="message_false2">Gambar Anda tidak sesuai dengan cerita,\nSilakan coba lagi</string>
+    <string name="image_classifier_failed">gagal</string>
+    <string name="instruction">Ikuti setiap bagian dari cerita ini dan gambarlah kata yang disorot pada kanvas yang tersedia. Ayo mulai!</string>
+    <string name="message">gagal memuat...</string>
+    <string name="logo">app_icon_desc</string>
+    <string name="app_version">1.0</string>
+    <string name="developer_info">
+        Developed by PT. FasimagiLand\n
+        Website: www.fasimagiland.com\n
+        Contact: fasimagiland@gmail.com
+    </string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms Of Service</string>
+</resources>
